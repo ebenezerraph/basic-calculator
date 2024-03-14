@@ -1,10 +1,10 @@
 # Basic Calculator
 
-A simple calculator web application built using HTML, CSS, and JavaScript. This project serves as a foundation for learning and practicing front-end web development.
+A simple calculator web application built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
-- Preview
+- Site
 - Installation
 - Usage
 - Features
@@ -13,9 +13,9 @@ A simple calculator web application built using HTML, CSS, and JavaScript. This 
 - Acknowledgments
 - Contact
 
-## Preview
+## Site
 
-[Basic Calulator](https://ebenezerraph.github.io/basic-calculator/)
+This is the live site of the calculator. [Basic Calulator](https://ebenezerraph.github.io/basic-calculator/)
 
 ## Installation
 
@@ -66,7 +66,7 @@ Contributions to this project are welcome! If you find any issues or have sugges
 ## Acknowledgments
 
 - W3Schools - A valuable resource for learning web development through tutorials and examples.
-- Claude from Anthropic - An AI assistant that provided valuable guidance and feedback throughout the development of this project.
+- Claude from Anthropic - An AI assistant who provided valuable guidance and feedback throughout the development of this project.
 
 ## Contact
 
@@ -74,4 +74,4 @@ If you have any questions or would like to get in touch, feel free to reach out 
 
 - Email: official.ebenezerraph@gmail.com
 - Website: [ebenezerraph.wordpress.com](https://ebenezerraph.wordpress.com)
-- Twitter: [@ebenezerraph](https://x.com/ebenezerraph)
+- X (Twitter): [@ebenezerraph](https://x.com/ebenezerraph)
