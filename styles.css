@@ -42,6 +42,14 @@ footer button:hover {
   border-radius: 5px;
 }
 
+footer a:hover {
+  text-decoration: none;
+}
+
+footer a:visited {
+ color: inherit;
+}
+
 #calculator {
   max-width: 230px;
   background-color: #e9e9ed;
