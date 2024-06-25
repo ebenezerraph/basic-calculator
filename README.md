@@ -1,7 +1,10 @@
 # Basic Calculator
 
 ## Description
-A simple calculator web application built using HTML, CSS, and JavaScript.
+This is a simple calculator web application built using HTML, CSS, and JavaScript.
+
+## Live Site
+You can access the live version of the Basic Calculator application [here](https://ebenezerraph.github.io/basic-calculator/).
 
 ## Features
 - Basic arithmetic operations (+, -, *, /)
@@ -10,9 +13,6 @@ A simple calculator web application built using HTML, CSS, and JavaScript.
 - Keyboard support for input and operations
 - Error handling for invalid expressions
 - Responsive design for various screen sizes
-
-## Live Site
-You can access the live version of the Basic Calculator application [here](https://ebenezerraph.github.io/basic-calculator/).
 
 ## Usage
 The calculator supports basic arithmetic operations (+, -, *, /), and includes the following features:
