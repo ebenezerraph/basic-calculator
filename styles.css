@@ -28,6 +28,7 @@ body {
   box-sizing: border-box;
   font-size: 1.5em;
   text-align: right;
+  border-bottom: #e9e9ed 1px solid;
 }
 
 #buttons {
@@ -59,7 +60,7 @@ button:hover {
 
 footer {
   width: 100%;
-  height: 50px;
+  min-height: 50px;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -75,13 +76,14 @@ footer {
 }
 
 footer button {
-  border: 1px solid black;
+  border: 2px solid black;
   background-color: #e9e9ed;
   color: black;
+  box-sizing: border-box;
   border-radius: 5px;
   padding: 8px;
   cursor: pointer;
-  width: 130px;
+  width: 150px;
   height: 40px;
 }
 
