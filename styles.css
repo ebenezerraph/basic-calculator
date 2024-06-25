@@ -1,3 +1,7 @@
+*{
+  font-weight: 700;
+}
+
 body {
   font-family: 'Arial', sans-serif;
   background-color: #f4f4f4;
@@ -6,6 +10,51 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
+}
+
+#calculator {
+  max-width: 240px;
+  background-color: #e9e9ed;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#output {
+  min-height: 60px;
+  border-radius: 10px 10px 0 0;
+  background-color: #fff;
+  word-wrap: break-word;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 1.5em;
+  text-align: right;
+}
+
+#buttons {
+  background-color: #e9e9ed;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+button {
+  background-color: #e9e9ed;
+  padding: 15px;
+  font-size: 1em;
+  height: 60px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  aspect-ratio: 1 / 1;
+  border-radius: 30px;
+}
+
+button:hover {
+  border-radius: 30px;
+  background-color: #f0f0f0;
+}
+
+#delete {
+  color: red;
 }
 
 footer {
@@ -49,47 +98,4 @@ footer a:hover {
 
 footer a:visited {
  color: inherit;
-}
-
-#calculator {
-  max-width: 230px;
-  background-color: #e9e9ed;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-#output {
-  min-height: 60px;
-  border-radius: 10px 10px 0 0;
-  background-color: #fff;
-  word-wrap: break-word;
-  padding: 10px;
-  box-sizing: border-box;
-  border-bottom: 1px solid #ccc;
-  font-size: 1.5em;
-  text-align: right;
-}
-
-#buttons {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-}
-
-#buttons > div {
-  background-color: #fff;
-}
-
-button {
-  background-color: #e9e9ed;
-  padding: 15px;
-  font-size: 1em;
-  border: none;
-  cursor: pointer;
-  transition: background-color 0.3s;
-  aspect-ratio: 1 / 1;
-}
-
-button:hover {
-  border-radius: 30px;
-  background-color: #f0f0f0;
 }
