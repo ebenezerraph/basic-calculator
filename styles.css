@@ -81,10 +81,10 @@ footer button {
   color: black;
   box-sizing: border-box;
   border-radius: 5px;
-  padding: 8px;
+  padding: 3px;
   cursor: pointer;
-  width: 150px;
-  height: 40px;
+  width: 130px;
+  height: 30px;
 }
 
 footer button:hover {
