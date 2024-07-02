@@ -68,7 +68,7 @@ footer {
   display: flex;
   justify-content: space-between;
   box-sizing: border-box;
-  color: black;
+  color: #f4f4f4;
   background-color: #e9e9ed;
   box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
   padding: 5px 10px;
@@ -76,7 +76,7 @@ footer {
 }
 
 footer button {
-  border: 2px solid black;
+  border: 2px solid #f4f4f4;
   background-color: #e9e9ed;
   color: #f4f4f4;
   box-sizing: border-box;
@@ -88,7 +88,7 @@ footer button {
 }
 
 footer button:hover {
-  background-color: black;
+  background-color: #f4f4f4;
   color: #e9e9ed;
   transition: all ease 0.3s;
   border-radius: 5px;
